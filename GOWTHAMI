@@ -1,0 +1,62 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<title> page title </title>
+</head>
+<body bgcolor="silver">
+<h1>My First Heading</h1>
+<h2>My Second Heading</h2>
+<h3>My Third Heading</h3>
+<h4>My Fourth Heading</h4>
+<h5>My Fifth Heading</h5>
+<h6>My Sixth Heading</h6><hr><hr> 
+<body>
+<h1><font size="5" color="blue" face="impact"><b>This is a paragraph</b></font></h1><hr><hr>
+</body>
+
+<table border="4" height="300" width="400" align="aside" bordercolor="green" bgcolor="gray">
+<th>S.No</th><th>NAME</th>
+<tr><td>01</td><td>data</td></tr>
+<tr><td>02</td><td>data</td></tr>
+<tr><td>03</td><td>data</td></tr> 
+<tf><td> TOTAL</td><td>  </td></tf>
+</table>
+
+
+<h1><center>form</center></h1>  
+First Name:<input type="text" placeholder="First Name"><br><br>
+Last Name:<input type="text" placeholder="last Name">><br><br>
+Email:<input type="Email" placeholder="Enter email"><br><br>
+Gender:<input type="radio"name="Gender">Male<input type="radio"name="Gender">Female<input type="radio" name="Gender">others<br><br>
+Mobile Number<input type="tel" placeholder="Enter phone Number"><br><br>
+Date of Birth:<input type="data"><br><br>
+Password:<input type="password"><br><br>
+Age:<input type="number" placeholder="your age"><br><br>
+Submit here:<input type="submit"><br><br>
+Click here:<input type="button"value="click here"><hr>
+<a href="URL">||UI DEVELOPMENT||</a>  <a href="URL">||GMAIL||</a>
+<hr>
+<h1 align="center">Ordered list in HTML</h1>
+
+<ol type="1">
+<li>C
+<li>C++
+<li>Java
+<li>HTML
+ </ol>
+ 
+<h2 align="center">Unordered List in HTML</h2>
+<ul type="circle">
+<li>C
+<li>C++
+<li>Java
+<li>HTML
+</ul>
+</h2><hr><hr>
+<h3 align="center">TEXT FORMAT</h3>
+<b>UI DEVELOPMENT</b><br>
+<i>UI DEVELOPMENT</i><br>
+<u>UI DEVELOPMENT</u><br>
+<strike>UI DEVELOPMENT</strike><br
+</html>
+
